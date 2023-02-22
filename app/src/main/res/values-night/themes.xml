@@ -1,0 +1,5 @@
+<resources>
+    <style name="Theme.KittyKitten" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <item name="colorPrimary">@color/primary</item>
+    </style>
+</resources>

@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">KittyKitten</string>
+    <string name="next_kitten">Next Kitten!</string>
+    <string name="cats">Cats</string>
+    <string name="a_random_cat_picture_from_internet">A random cat picture from internet</string>
+    <string name="please_get_back_your_internet_connection">Please get back your internet connection</string>
+</resources>
